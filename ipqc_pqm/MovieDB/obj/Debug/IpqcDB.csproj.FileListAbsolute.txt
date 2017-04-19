@@ -1,0 +1,146 @@
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\bin\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\bin\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db\MovieDB\obj\Debug\IpqcDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\bin\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\bin\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db -ncvc\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.exe
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.pdb
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.exe
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.pdb
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.dll
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.xml
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form2.resources
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form4.resources
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form5.resources
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form3.resources
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form1.resources
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form6.resources
+D:\Dropbox\Nidec\database\modified\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form7.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form6.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form6.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.exe
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form2.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form4.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form5.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form3.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form1.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form6.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+E:\Fujii\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form4.resources
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form5.resources
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form3.resources
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form1.resources
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form6.resources
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.exe
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.pdb
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.pdb
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form2.resources
+C:\Users\qa28\Desktop\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form7.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\bin\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\bin\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Form7.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Form6.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\IPQC db ncvc final\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Form7.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.exe
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\bin\Debug\IpqcDB.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmHioki.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmScale.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmLogin.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmPushPull.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmItem.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmItemMaster.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmMmAuto.resources
+C:\Users\takusuke.fujii\Desktop\Projects\IPQC\IPQC db ncvc\MovieDB\obj\Debug\IpqcDB.frmManual.resources
+C:\Users\admin\Source\Repos\ipqc_pqm\ipqc_pqm\MovieDB\obj\Debug\IpqcDB.csproj.ResolveComReference.cache
+C:\Users\admin\Source\Repos\ipqc_pqm\ipqc_pqm\MovieDB\obj\Debug\IpqcDB.exe
+C:\Users\admin\Source\Repos\ipqc_pqm\ipqc_pqm\MovieDB\obj\Debug\IpqcDB.pdb
